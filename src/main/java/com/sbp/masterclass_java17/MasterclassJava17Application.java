@@ -9,7 +9,7 @@ public class MasterclassJava17Application {
 	public static void main(String[] args) {
 		SpringApplication.run(MasterclassJava17Application.class, args);
 
-		System.out.println("Welcome to Masterclasses: masterclass_java17 !!!");
+		System.out.println("Welcome to Masterclasses: masterclass_java17 : Test!!!");
 	}
 
 }
